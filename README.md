@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4/8/2018
 
 ### Student Name:  
-(First and Last Name)
+Brittany Ruffin
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+How to make a website with multiple pages that can be accessed by tabs
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brittanyruffin.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to have functioning tabs on a website
+2. How to change the background color when clicked
+3. Learned more about git and its functions
 
